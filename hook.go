@@ -5,7 +5,7 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/coreos/bbolt"
+	bolt "github.com/coreos/bbolt"
 	"github.com/sirupsen/logrus"
 )
 
